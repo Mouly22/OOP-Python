@@ -18,4 +18,4 @@ In python, we can not use same method with different parameters, the latest one 
 For this reason, we do method and constructor overloading and use (```*args, **kwargs```) if we do not know our argument input size.</h4>
 
 
-```Read this``` --> [All about OOP](https://github.com/Mouly22/Read-Practice-Python/blob/main/All_About_OOP.py)
+```Read this``` --> [All about OOP](https://github.com/Mouly22/Read-Practice-Python/blob/main/All_About_OOP.py) https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif
