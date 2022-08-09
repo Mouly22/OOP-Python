@@ -6,7 +6,8 @@
 
 <h4> First of all, there is a class(which we can consider as a blueprint) and we make objects using that blueprint. There is not limit of numbers for making objects from a class. BUT, all the objects will be different in a class.
   
- 'self' is one of the most used but misconceptual word in OOP. I have been many people describing self in wrong ways. In easy word, it is a chair for the objects through which we are calling our class.
+  
+'self' is one of the most used but misconceptual word in OOP. I have been many people describing self in wrong ways. In easy word, it is a chair for the objects through which we are calling our class.
 
 In python, we can not use same method with different parameters, the latest one is always countable which most of the time raises an error, same goes for constructors.
   
