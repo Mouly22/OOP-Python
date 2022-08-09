@@ -1,7 +1,7 @@
 # OOP-Python
 ```OOP is one of the basic concepts and even though Python does not support all kinds of OOP operations, we somehow manage to sort all kinds of operations.```
 
-<h3>However, the basics of Python is a must to understand OOP concepts, so it's better to learn the basic python first. or else we will feel like<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "40"> </h3>
+<h3>However, the basics of Python is a must to understand OOP concepts, so it's better to learn the basic python first. or else we will feel like<h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "60"> 
 
 
 <h4> First of all, there is a class(which we can consider as a blueprint) and we make objects using that blueprint. There is not limit of numbers for making objects from a class. BUT, all the objects will be different in a class.
