@@ -19,3 +19,5 @@ class Random:
 c1 = Random('mouly', 5)
 c2 = Random('fahad', 2)
 print(c2)
+
+#output: This is fahad's object
